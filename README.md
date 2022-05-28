@@ -35,5 +35,6 @@ Mỗi lần click chuột:
     * Hiệu ứng lật ảnh, chuyển tiếp Level 
     * Âm thanh mỗi lần click
     * Tăng thêm Level, phong phú chủ đề ảnh
+    * Thêm gợi í, cách chơi
     *  . . .   
 3. Sau khi hoàn thiện chương trình giúp tăng khả năng code, có kiến thức nền tảng cơ bản về lập trình game và xử lý hiệu ứng,...
